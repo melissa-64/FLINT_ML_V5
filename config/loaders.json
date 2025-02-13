@@ -23,6 +23,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/Loader.exe",
             "status": "updating",
             "imageUrl": "https://media.discordapp.net/attachments/1115013002639450113/1339716273952788510/box_8.gif?ex=67afbb82&is=67ae6a02&hm=b254976ebb832cedfbe85f7b120c2c76e8f7e29cef82372e5ed7b5f065615fd2&="
+        },
+        {
+            "id": "VALORANT CHAIR",
+            "name": "VALORANT CHAIR",
+            "categoryId": "valorant",
+            "downloadUrl": "https://files.anewvision.fr/flint/Loader.exe",
+            "status": "offline",
+            "imageUrl": "https://media.discordapp.net/attachments/1115013002639450113/1339716273361387682/box_7.gif?ex=67afbb82&is=67ae6a02&hm=1960cf915d8b949e0615286dec674fd16328e6448bf4abf86d1b7eab96ad0960&="
         }
     ]
 }
