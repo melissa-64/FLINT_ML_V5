@@ -31,6 +31,14 @@
             "downloadUrl": "https://files.anewvision.fr/flint/Loader.exe",
             "status": "offline",
             "imageUrl": "https://media.discordapp.net/attachments/1115013002639450113/1339716273361387682/box_7.gif?ex=67afbb82&is=67ae6a02&hm=1960cf915d8b949e0615286dec674fd16328e6448bf4abf86d1b7eab96ad0960&="
+        },
+        {
+            "id": "SILENT CHAIR + BLOCKER",
+            "name": "SILENT CHAIR + BLOCKER",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cdn.discordapp.com/attachments/1115013002639450113/1339746847287410819/Silent_Chair__Blocker.exe?ex=67afd7fb&is=67ae867b&hm=1031d87ae94cb06cfe78393f757718e4da123fbf7ab83649b206a25bba844ef7&",
+            "status": "online",
+            "imageUrl": "https://media.discordapp.net/attachments/1115013002639450113/1339716270894878761/box_4.gif?ex=67afbb81&is=67ae6a01&hm=0d3dd01352dfad2f18f4b60883f4bc592f0e3a34158742dbbc08992ead090661&="
         }
     ]
 }
