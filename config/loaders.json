@@ -1,12 +1,4 @@
 {
     "defaultListView": false,
-    "loaders": [
-        {
-            "id": "BO6 UNLOCK ALL + WOOFER",
-            "name": "BO6 UNLOCK ALL + WOOFER",
-            "categoryId": "bo6",
-            "downloadUrl": "https://cdn.discordapp.com/attachments/1115013002639450113/1339703754659725322/Loader.exe?",
-            "status": "online"
-        }
-    ]
+    "loaders": []
 }
