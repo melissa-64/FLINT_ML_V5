@@ -24,6 +24,14 @@
             "downloadUrl": "https://files.anewvision.fr/flint/Loader.exe",
             "status": "offline",
             "imageUrl": "https://media.discordapp.net/attachments/1115013002639450113/1339716273361387682/box_7.gif?ex=67afbb82&is=67ae6a02&hm=1960cf915d8b949e0615286dec674fd16328e6448bf4abf86d1b7eab96ad0960&="
+        },
+        {
+            "id": "BO6 UNLOCK ALL + WOOFER",
+            "name": "BO6 UNLOCK ALL + WOOFER",
+            "categoryId": "bo6",
+            "downloadUrl": "https://files.anewvision.fr/flint/Loader.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/box_2.gif"
         }
     ]
 }
