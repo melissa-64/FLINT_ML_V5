@@ -24,6 +24,14 @@
             "downloadUrl": "https://files.anewvision.fr/flint/Loader.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/box_2.gif"
+        },
+        {
+            "id": "FORTNITE CHAIR",
+            "name": "FORTNITE CHAIR",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://files.anewvision.fr/flint/Loader.exe",
+            "status": "offline",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/box_8.gif"
         }
     ]
 }
