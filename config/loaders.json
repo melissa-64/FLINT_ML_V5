@@ -24,6 +24,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/t10-zl_jkbef32f.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/box_3.gif"
+        },
+        {
+            "id": "VALORANT CHAIR",
+            "name": "VALORANT CHAIR",
+            "categoryId": "valorant",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/Loader_1.exe",
+            "status": "custom",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/box_7.gif"
         }
     ]
 }
