@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "VALORANT CHAIR",
-            "name": "VALORANT CHAIR",
-            "categoryId": "valorant",
-            "downloadUrl": "https://files.anewvision.fr/flint/Loader.exe",
-            "status": "offline",
-            "imageUrl": "https://media.discordapp.net/attachments/1115013002639450113/1339716273361387682/box_7.gif?ex=67afbb82&is=67ae6a02&hm=1960cf915d8b949e0615286dec674fd16328e6448bf4abf86d1b7eab96ad0960&="
-        },
-        {
             "id": "FORTNITE CHAIR",
             "name": "FORTNITE CHAIR",
             "categoryId": "fortnite",
