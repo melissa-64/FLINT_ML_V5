@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "BO6 VIP CHAIR",
-            "name": "BO6 Zenith Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1026520900096503848_cloud/main/t10-zl_jkbef32f.exe",
-            "status": "online",
-            "imageUrl": "https://media.discordapp.net/attachments/1115013002639450113/1339716269892567061/box_3.gif?ex=67afbb81&is=67ae6a01&hm=42f2ce06272fecddcabaf66be34bd6fb9abf131b927530cdbef2f747536d3a38&="
-        },
-        {
             "id": "VALORANT CHAIR",
             "name": "VALORANT CHAIR",
             "categoryId": "valorant",
